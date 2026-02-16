@@ -90,3 +90,10 @@ Remote vs onsite salary difference
 Industry-wise salary comparison
 
 Link:- https://public.tableau.com/views/AIDataJobSalariesOverview/GLOBALSALARYOVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+📬 Connect With Me
+Rimple Patel
+Aspiring Data Analyst | SQL | Python | Tableau
+LinkedIn: www.linkedin.com/in/rimple-patel-b9b572209
+
+⭐ If you found this project interesting, feel free to star the repository!
