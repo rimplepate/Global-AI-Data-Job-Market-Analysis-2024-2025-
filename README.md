@@ -75,3 +75,18 @@ Mean Absolute Error (MAE)
 R² Score
 
 The model identifies key salary drivers and demonstrates practical machine learning application in workforce analytics.
+
+📈 Tableau Dashboard
+
+Dashboard Name:
+AI Job Market Salary Insights: Remote Work & Industry Comparison (2024–2025)
+
+Key Insights to Extract:-
+Avg salary by job title
+Salary vs experience level
+Salary by country
+Salary by company size
+Remote vs onsite salary difference
+Industry-wise salary comparison
+
+Link:- https://public.tableau.com/views/AIDataJobSalariesOverview/GLOBALSALARYOVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
